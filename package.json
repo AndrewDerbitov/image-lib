@@ -52,7 +52,7 @@
 		"@emotion/core": "^10.0.28",
 		"@emotion/styled": "^10.0.27",
 		"@emotion/weak-memoize": "^0.2.5",
-		"@emulous/uneon": "^0.0.1",
+		"@emulous/prototype": "^0.0.1",
 		"babel-eslint": "10.1.0",
 		"babel-jest": "26.1.0",
 		"babel-plugin-emotion": "^10.0.33",
