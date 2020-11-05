@@ -1,0 +1,304 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Unsplash with default params snapshot 1`] = `
+"<div>
+  <div class=\\"css-kw5f78\\">
+    <div class=\\"css-snbs1m-WrapImage e1h1mtzm4\\"><img src=\\"https://images.unsplash.com/photo-1601758260679-259d3f79c9a1?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=200&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjE2Mzg3Nn0\\" class=\\"css-1zmyc9-Image e1h1mtzm5\\">
+      <div class=\\"css-1chkczq-ControlsWrap e1h1mtzm6\\">
+        <div class=\\"css-1mv6wf9-Control erob0wt4\\">
+          <div class=\\"css-ydyr8z-Cover erob0wt0\\"></div><button class=\\"erob0wt1 css-xbhy01-Refresh\\"><svg data-file-name=\\"SvgRefresh\\"></svg></button>
+          <div class=\\"erob0wt3 css-1n6dm3j-Label\\">Chewy</div>
+        </div>
+      </div>
+    </div>
+    <div class=\\"css-1xr2f43-WrapImage e1h1mtzm4\\"><img src=\\"https://images.unsplash.com/photo-1603657524073-29d513dce10d?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=200&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjE2Mzg3Nn0\\" class=\\"css-1zmyc9-Image e1h1mtzm5\\">
+      <div class=\\"css-1chkczq-ControlsWrap e1h1mtzm6\\">
+        <div class=\\"css-1mv6wf9-Control erob0wt4\\">
+          <div class=\\"css-ydyr8z-Cover erob0wt0\\"></div><button class=\\"erob0wt1 css-xbhy01-Refresh\\"><svg data-file-name=\\"SvgRefresh\\"></svg></button>
+          <div class=\\"erob0wt3 css-1n6dm3j-Label\\">Jake Weirick</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`test Unsplash with search line snapshot 1`] = `
+.emotion-12 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 4px;
+  -webkit-transform: translate(159px,0px);
+  -ms-transform: translate(159px,0px);
+  transform: translate(159px,0px);
+  height: 94px;
+  width: 141px;
+  -webkit-animation-name: move;
+  animation-name: move;
+  -webkit-animation-duration: 0.25s;
+  animation-duration: 0.25s;
+  -webkit-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+}
+
+.emotion-0 {
+  height: 100%;
+  width: 100%;
+}
+
+.emotion-10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.emotion-8 {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  opacity: 0;
+  cursor: pointer;
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+}
+
+.emotion-8:hover {
+  opacity: 1;
+}
+
+.emotion-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 4px;
+  background: #252634;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+.emotion-5 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: inline-block;
+  text-align: center;
+  line-height: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-size: inherit;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  background-color: primary;
+  border: 0;
+  border-radius: 4px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  border-width: 2px;
+  border-color: #FFFFFF;
+  border-style: solid;
+  outline: none;
+  -webkit-transition-property: color,background,borderColor,opacity;
+  transition-property: color,background,borderColor,opacity;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  cursor: pointer;
+  background-color: transparent;
+  color: #FFFFFF;
+  border-radius: 999px;
+  padding: 0;
+  height: 36px;
+  width: 36px;
+  z-index: 2;
+}
+
+.emotion-5 svg {
+  fill: #FFFFFF;
+}
+
+.emotion-5:hover {
+  opacity: 0.75;
+}
+
+.emotion-5:active {
+  opacity: 0.33;
+}
+
+.emotion-7 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  font-family: PTRootUIWeb,sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: 'liga','dlig','ss01' 0,'ss02','ss03','ss04','ss05' 0,'kern';
+  position: absolute;
+  bottom: 3px;
+  right: 6px;
+  left: 6px;
+  color: #ffffff;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.emotion-7:hover {
+  opacity: 0.8;
+}
+
+.emotion-26 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 4px;
+  -webkit-transform: translate(0px,0px);
+  -ms-transform: translate(0px,0px);
+  transform: translate(0px,0px);
+  height: 83px;
+  width: 141px;
+  -webkit-animation-name: move;
+  animation-name: move;
+  -webkit-animation-duration: 0.25s;
+  animation-duration: 0.25s;
+  -webkit-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+}
+
+.emotion-28 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  height: 112px;
+  margin-top: 12px;
+}
+
+<div>
+  <div>
+    <div
+      class="emotion-28"
+    >
+      <div
+        class="emotion-12 emotion-13"
+      >
+        <img
+          class="emotion-0 emotion-1"
+          src="https://images.unsplash.com/photo-1601758260679-259d3f79c9a1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE2Mzg3Nn0"
+        />
+        <div
+          class="emotion-10 emotion-11"
+        >
+          <div
+            class="emotion-8 emotion-9"
+          >
+            <div
+              class="emotion-2 emotion-3"
+            />
+            <button
+              class="emotion-4 emotion-5"
+            >
+              <svg
+                data-file-name="SvgRefresh"
+              />
+            </button>
+            <div
+              class="emotion-6 emotion-7"
+            >
+              Chewy
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="emotion-26 emotion-13"
+      >
+        <img
+          class="emotion-0 emotion-1"
+          src="https://images.unsplash.com/photo-1603657524073-29d513dce10d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE2Mzg3Nn0"
+        />
+        <div
+          class="emotion-10 emotion-11"
+        >
+          <div
+            class="emotion-8 emotion-9"
+          >
+            <div
+              class="emotion-2 emotion-3"
+            />
+            <button
+              class="emotion-4 emotion-5"
+            >
+              <svg
+                data-file-name="SvgRefresh"
+              />
+            </button>
+            <div
+              class="emotion-6 emotion-7"
+            >
+              Jake Weirick
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
